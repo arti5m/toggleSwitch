@@ -1,0 +1,3 @@
+# toggleSwitch jQuery Plugin
+
+Use this to create hamburgers, collapsible menus, dropdowns, accordions, etc...
